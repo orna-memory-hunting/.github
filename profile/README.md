@@ -91,3 +91,8 @@
 
 11. После возврата в приложение можно поменять данные и добавить следующий осколок или вернуться к списку осколков
     > Закрытие окна добавление (крестик в заголовке), вернет в список осколков, в тот период из которого выполняли добавление осколка
+
+
+### Картинки
+
+<img src="https://user-images.githubusercontent.com/3082812/200195997-f5245f94-f8a9-422a-9c4e-6558b3a49ad1.jpg" width="25%"><img src="https://user-images.githubusercontent.com/3082812/200196005-d5ce132f-bc72-4f9f-be67-10d29cbe9395.jpg" width="25%"><img src="https://user-images.githubusercontent.com/3082812/200196012-df249dd6-5169-4d67-919b-8efcfba4ae06.jpg" width="25%"><img src="https://user-images.githubusercontent.com/3082812/200196046-76c533c9-90e6-488f-8565-161d0bbdf652.jpg" width="25%">
