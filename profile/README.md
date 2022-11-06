@@ -17,6 +17,8 @@
 
 Вопросы и обсуждения в группе Telegram: <https://t.me/OrnaOskolki>
 
+Для продвинутых, база найденных осколков на github: https://github.com/orna-memory-hunting/storage/issues
+
 ### Как пользоваться
 
 #### Подготовка
